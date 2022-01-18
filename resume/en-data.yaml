@@ -1,0 +1,68 @@
+lang: en
+
+name:
+  first: Héctor
+  last: Martínez
+
+position: Front-end developer
+
+contacts:
+  phone: (+34) 678154252
+  email: hectormartinezoria@gmail.com
+  linkedIn: hmartinezoria
+
+profile: My principal aim is to keep alive the link between coding and art.
+
+skills:
+- "Vue v2 & v3"
+- "JavaScript"
+- "HTML5"
+- "CSS/SASS, Tailwind"
+- "Firebase"
+- "Git, Github, Bitbucket"
+- "Agile methodologies"
+- "English C1"
+
+experience:
+- workPosition: Front-end developer
+  workPeriod: 2017 - 2022
+  companyName: The Cocktail
+  description: Vue, JS, HTML5, CSS3, SASS, Flexbox, CSS Grids, Git Environment (Bitbucket), Responsive Web Design, Unit testing. Sketch/Figma. Scrum Agile methodlogy.
+
+- workPosition: Front-end developer
+  workPeriod: 2017 - 2017
+  companyName: Kimia Group
+  description: JS, HTML5, CSS3, SASS, Flexbox, PostCSS, Git Environment (Bitbucket), Responsive Web Design.
+
+- workPosition: Front-end developer
+  workPeriod: 2015 - 2017
+  companyName: Nectentric - Enterprise web excelence
+  description: Adobe Experience Manager (AEM), JS, HTML5, CSS3, SASS, LESS, Flexbox, Susy, Git Environment, Litmus. Accessibility, Responisve Web Design. Full English professional environment.
+
+- workPosition: Front-end developer
+  workPeriod: 2014 - 2015
+  companyName: MRM - McCann
+  description: CSS3, HTML5, Jquery, PHP, Bootstrap, Git environment, Photoshop, Illustrator, Responsive web design, E-mail campaigns.
+
+- workPosition: Web designer & developer
+  workPeriod: 2013 - 2014
+  companyName: Nestrategia
+  description: CSS3, HTML5, Jquery, Wordpress. Photoshop, Illustrator.
+
+- workPosition: Web designer & developer
+  workPeriod: 2013 - 2014
+  companyName: Freelance
+  description: CSS3, HTML5, Wordpress. Web design/offline design, Sketch, Photoshop, Illustrator, Indesign.
+
+education:
+- degreeTitle: Web development master’s degree
+  institutionName: Trazos School
+  studyDirection: Madrid, Spain
+
+- degreeTitle: Media & Communications Studies (bachelor's degree)
+  institutionName: Rey Juan Carlos University
+  studyDirection: Madrid, Spain
+
+- degreeTitle: Professional English Course C1
+  institutionName: University of York
+  studyDirection: York, United Kingdom
